@@ -1,6 +1,6 @@
 {
   "name": "upolka",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/upolk/upolka.git"
+    "url": "https://github.com/nmerald/nmerald.git"
   },
   "keywords": [],
   "author": "",
